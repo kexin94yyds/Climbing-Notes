@@ -14,7 +14,7 @@
    - `import_to_notes.applescript`
 
 2. **一键设置**（只需要做一次）：
-```bash
+   ```bash
    echo 'alias books="cd /脚本文件夹路径 && ./extract_books_highlights.sh"' >> ~/.zshrc
    source ~/.zshrc
    ```
@@ -104,4 +104,4 @@ A: 默认在脚本文件夹下的 `Books_Highlights` 文件夹中
 ---
 
 💡 **新手提示**：首次使用建议先选择"列出所有书籍"查看效果  
-🚀 **进阶用户**：可以直接使用Python脚本的命令行参数进行批量操作 
+🚀 **进阶用户**：可以直接使用Python脚本的命令行参数进行批量操作
